@@ -1,0 +1,501 @@
+Account,Date,Company,Debit,Credit,Amount,Sub-category,Category,Category Type
+Credit,2023-02-07 00:00:00,Company A,,2583,2583,Salary,Income,Income
+Savings,2023-08-21 00:00:00,Company C,211,,-211,Entertainment,Entertainment,Expense
+Checking,2023-07-14 00:00:00,Company B,,2713,2713,Salary,Income,Income
+Checking,2023-05-15 00:00:00,Company D,964,,-964,Groceries,Food,Expense
+Savings,2023-01-21 00:00:00,Company B,146,,-146,Entertainment,Entertainment,Expense
+Savings,2023-03-19 00:00:00,Company A,759,,-759,Transport,Travel,Expense
+Checking,2023-08-12 00:00:00,Company B,537,,-537,Entertainment,Entertainment,Expense
+Checking,2023-10-21 00:00:00,Company C,453,,-453,Transport,Travel,Expense
+Checking,2023-02-20 00:00:00,Company D,,4076,4076,Salary,Income,Income
+Credit,2023-06-27 00:00:00,Company A,48,,-48,Entertainment,Entertainment,Expense
+Checking,2023-02-08 00:00:00,Company A,214,,-214,Utilities,Bills,Expense
+Savings,2023-12-10 00:00:00,Company B,72,,-72,Utilities,Bills,Expense
+Savings,2023-05-04 00:00:00,Company C,181,,-181,Utilities,Bills,Expense
+Checking,2023-03-29 00:00:00,Company D,358,,-358,Transport,Travel,Expense
+Credit,2023-07-30 00:00:00,Company D,587,,-587,Groceries,Food,Expense
+Credit,2023-10-29 00:00:00,Company D,930,,-930,Utilities,Bills,Expense
+Savings,2023-06-21 00:00:00,Company D,71,,-71,Transport,Travel,Expense
+Credit,2023-03-14 00:00:00,Company D,331,,-331,Groceries,Food,Expense
+Credit,2023-05-16 00:00:00,Company D,659,,-659,Utilities,Bills,Expense
+Credit,2023-03-11 00:00:00,Company D,971,,-971,Groceries,Food,Expense
+Checking,2023-09-05 00:00:00,Company A,704,,-704,Groceries,Food,Expense
+Checking,2023-03-06 00:00:00,Company C,18,,-18,Entertainment,Entertainment,Expense
+Credit,2023-02-09 00:00:00,Company C,245,,-245,Rent,Living Expenses,Expense
+Checking,2023-08-11 00:00:00,Company A,514,,-514,Transport,Travel,Expense
+Checking,2023-12-26 00:00:00,Company A,274,,-274,Groceries,Food,Expense
+Checking,2023-09-23 00:00:00,Company B,502,,-502,Transport,Travel,Expense
+Checking,2023-01-05 00:00:00,Company C,761,,-761,Rent,Living Expenses,Expense
+Savings,2023-10-23 00:00:00,Company D,271,,-271,Utilities,Bills,Expense
+Savings,2023-08-08 00:00:00,Company B,376,,-376,Groceries,Food,Expense
+Checking,2023-04-02 00:00:00,Company C,721,,-721,Rent,Living Expenses,Expense
+Credit,2023-05-15 00:00:00,Company C,,3478,3478,Salary,Income,Income
+Checking,2023-10-22 00:00:00,Company C,651,,-651,Groceries,Food,Expense
+Credit,2023-07-08 00:00:00,Company B,906,,-906,Rent,Living Expenses,Expense
+Checking,2023-12-29 00:00:00,Company A,,3221,3221,Salary,Income,Income
+Savings,2023-11-23 00:00:00,Company C,,4747,4747,Salary,Income,Income
+Credit,2023-09-02 00:00:00,Company A,,1980,1980,Salary,Income,Income
+Checking,2023-12-08 00:00:00,Company C,514,,-514,Coffee,Dining Out,Expense
+Savings,2023-09-16 00:00:00,Company C,474,,-474,Groceries,Food,Expense
+Credit,2023-08-05 00:00:00,Company A,700,,-700,Transport,Travel,Expense
+Checking,2023-02-04 00:00:00,Company D,55,,-55,Coffee,Dining Out,Expense
+Savings,2023-03-10 00:00:00,Company B,642,,-642,Coffee,Dining Out,Expense
+Savings,2023-07-09 00:00:00,Company A,,1479,1479,Salary,Income,Income
+Savings,2023-03-16 00:00:00,Company C,623,,-623,Transport,Travel,Expense
+Savings,2023-03-05 00:00:00,Company D,,2360,2360,Salary,Income,Income
+Savings,2023-12-04 00:00:00,Company B,612,,-612,Coffee,Dining Out,Expense
+Credit,2023-09-14 00:00:00,Company B,,3222,3222,Salary,Income,Income
+Checking,2023-05-15 00:00:00,Company C,739,,-739,Utilities,Bills,Expense
+Savings,2023-08-30 00:00:00,Company A,,1989,1989,Salary,Income,Income
+Savings,2023-05-20 00:00:00,Company C,274,,-274,Coffee,Dining Out,Expense
+Checking,2023-02-08 00:00:00,Company B,899,,-899,Groceries,Food,Expense
+Savings,2023-11-13 00:00:00,Company D,60,,-60,Rent,Living Expenses,Expense
+Checking,2023-11-23 00:00:00,Company B,965,,-965,Transport,Travel,Expense
+Credit,2023-01-17 00:00:00,Company A,16,,-16,Utilities,Bills,Expense
+Credit,2023-04-15 00:00:00,Company A,336,,-336,Rent,Living Expenses,Expense
+Credit,2023-06-10 00:00:00,Company B,820,,-820,Coffee,Dining Out,Expense
+Credit,2023-01-01 00:00:00,Company B,779,,-779,Transport,Travel,Expense
+Credit,2023-06-16 00:00:00,Company C,826,,-826,Rent,Living Expenses,Expense
+Savings,2023-04-25 00:00:00,Company C,687,,-687,Transport,Travel,Expense
+Checking,2023-01-06 00:00:00,Company D,362,,-362,Utilities,Bills,Expense
+Savings,2023-03-28 00:00:00,Company C,,2688,2688,Salary,Income,Income
+Savings,2023-01-08 00:00:00,Company A,491,,-491,Coffee,Dining Out,Expense
+Savings,2023-03-11 00:00:00,Company A,,2050,2050,Salary,Income,Income
+Checking,2023-12-02 00:00:00,Company B,106,,-106,Utilities,Bills,Expense
+Checking,2023-12-30 00:00:00,Company A,343,,-343,Entertainment,Entertainment,Expense
+Credit,2023-10-03 00:00:00,Company A,809,,-809,Transport,Travel,Expense
+Credit,2023-12-03 00:00:00,Company A,12,,-12,Rent,Living Expenses,Expense
+Savings,2023-04-12 00:00:00,Company C,962,,-962,Utilities,Bills,Expense
+Credit,2023-08-10 00:00:00,Company D,951,,-951,Transport,Travel,Expense
+Savings,2023-07-14 00:00:00,Company A,881,,-881,Coffee,Dining Out,Expense
+Credit,2023-03-10 00:00:00,Company D,60,,-60,Rent,Living Expenses,Expense
+Checking,2023-05-02 00:00:00,Company D,630,,-630,Coffee,Dining Out,Expense
+Checking,2023-04-05 00:00:00,Company A,317,,-317,Entertainment,Entertainment,Expense
+Savings,2023-06-17 00:00:00,Company A,,2162,2162,Salary,Income,Income
+Credit,2023-12-26 00:00:00,Company B,,1717,1717,Salary,Income,Income
+Checking,2023-01-21 00:00:00,Company A,,1195,1195,Salary,Income,Income
+Credit,2023-07-11 00:00:00,Company C,100,,-100,Coffee,Dining Out,Expense
+Credit,2023-09-11 00:00:00,Company A,376,,-376,Entertainment,Entertainment,Expense
+Savings,2023-05-27 00:00:00,Company B,472,,-472,Entertainment,Entertainment,Expense
+Savings,2023-07-24 00:00:00,Company D,469,,-469,Coffee,Dining Out,Expense
+Credit,2023-07-30 00:00:00,Company C,79,,-79,Entertainment,Entertainment,Expense
+Savings,2023-04-09 00:00:00,Company D,999,,-999,Rent,Living Expenses,Expense
+Credit,2023-07-17 00:00:00,Company A,247,,-247,Transport,Travel,Expense
+Credit,2023-07-11 00:00:00,Company B,255,,-255,Transport,Travel,Expense
+Credit,2023-07-28 00:00:00,Company D,779,,-779,Groceries,Food,Expense
+Savings,2023-04-13 00:00:00,Company A,242,,-242,Rent,Living Expenses,Expense
+Checking,2023-10-27 00:00:00,Company D,,2559,2559,Salary,Income,Income
+Checking,2023-04-15 00:00:00,Company C,,3452,3452,Salary,Income,Income
+Savings,2023-10-10 00:00:00,Company D,,4997,4997,Salary,Income,Income
+Savings,2023-06-01 00:00:00,Company D,616,,-616,Coffee,Dining Out,Expense
+Credit,2023-04-28 00:00:00,Company D,536,,-536,Groceries,Food,Expense
+Checking,2023-10-24 00:00:00,Company A,,4787,4787,Salary,Income,Income
+Credit,2023-02-15 00:00:00,Company B,285,,-285,Entertainment,Entertainment,Expense
+Savings,2023-12-26 00:00:00,Company D,665,,-665,Utilities,Bills,Expense
+Credit,2023-03-27 00:00:00,Company A,7,,-7,Entertainment,Entertainment,Expense
+Savings,2023-01-16 00:00:00,Company D,760,,-760,Entertainment,Entertainment,Expense
+Checking,2023-05-15 00:00:00,Company A,,4755,4755,Salary,Income,Income
+Credit,2023-11-18 00:00:00,Company A,930,,-930,Utilities,Bills,Expense
+Savings,2023-07-19 00:00:00,Company C,619,,-619,Coffee,Dining Out,Expense
+Checking,2023-09-28 00:00:00,Company C,394,,-394,Entertainment,Entertainment,Expense
+Savings,2023-12-20 00:00:00,Company D,972,,-972,Transport,Travel,Expense
+Checking,2023-06-20 00:00:00,Company C,110,,-110,Groceries,Food,Expense
+Savings,2023-06-19 00:00:00,Company C,184,,-184,Entertainment,Entertainment,Expense
+Credit,2023-09-18 00:00:00,Company A,156,,-156,Utilities,Bills,Expense
+Checking,2023-12-30 00:00:00,Company A,797,,-797,Rent,Living Expenses,Expense
+Checking,2023-07-03 00:00:00,Company D,120,,-120,Utilities,Bills,Expense
+Savings,2023-02-03 00:00:00,Company D,,1193,1193,Salary,Income,Income
+Checking,2023-03-07 00:00:00,Company A,,2690,2690,Salary,Income,Income
+Checking,2023-06-23 00:00:00,Company B,278,,-278,Utilities,Bills,Expense
+Checking,2023-03-02 00:00:00,Company B,813,,-813,Rent,Living Expenses,Expense
+Credit,2023-12-13 00:00:00,Company A,200,,-200,Coffee,Dining Out,Expense
+Credit,2023-07-20 00:00:00,Company B,158,,-158,Rent,Living Expenses,Expense
+Savings,2023-04-13 00:00:00,Company A,683,,-683,Utilities,Bills,Expense
+Savings,2023-09-07 00:00:00,Company C,667,,-667,Coffee,Dining Out,Expense
+Credit,2023-09-03 00:00:00,Company A,,4190,4190,Salary,Income,Income
+Savings,2023-08-03 00:00:00,Company B,586,,-586,Utilities,Bills,Expense
+Savings,2023-01-05 00:00:00,Company D,208,,-208,Entertainment,Entertainment,Expense
+Checking,2023-04-06 00:00:00,Company C,672,,-672,Transport,Travel,Expense
+Savings,2023-11-12 00:00:00,Company B,817,,-817,Utilities,Bills,Expense
+Credit,2023-01-20 00:00:00,Company D,405,,-405,Utilities,Bills,Expense
+Savings,2023-02-05 00:00:00,Company A,662,,-662,Groceries,Food,Expense
+Checking,2023-02-08 00:00:00,Company B,186,,-186,Utilities,Bills,Expense
+Checking,2023-11-02 00:00:00,Company C,396,,-396,Groceries,Food,Expense
+Checking,2023-11-09 00:00:00,Company D,705,,-705,Transport,Travel,Expense
+Savings,2023-12-28 00:00:00,Company C,219,,-219,Rent,Living Expenses,Expense
+Checking,2023-05-11 00:00:00,Company C,221,,-221,Utilities,Bills,Expense
+Savings,2023-06-17 00:00:00,Company D,962,,-962,Entertainment,Entertainment,Expense
+Credit,2023-10-27 00:00:00,Company C,808,,-808,Rent,Living Expenses,Expense
+Savings,2023-08-06 00:00:00,Company A,34,,-34,Entertainment,Entertainment,Expense
+Savings,2023-10-12 00:00:00,Company B,,2204,2204,Salary,Income,Income
+Credit,2023-05-27 00:00:00,Company D,926,,-926,Groceries,Food,Expense
+Credit,2023-12-15 00:00:00,Company B,854,,-854,Utilities,Bills,Expense
+Savings,2023-10-08 00:00:00,Company B,31,,-31,Groceries,Food,Expense
+Checking,2023-10-03 00:00:00,Company B,626,,-626,Utilities,Bills,Expense
+Savings,2023-01-08 00:00:00,Company B,929,,-929,Utilities,Bills,Expense
+Credit,2023-10-21 00:00:00,Company B,771,,-771,Groceries,Food,Expense
+Savings,2023-05-29 00:00:00,Company C,,3987,3987,Salary,Income,Income
+Credit,2023-10-04 00:00:00,Company D,90,,-90,Coffee,Dining Out,Expense
+Savings,2023-09-03 00:00:00,Company B,247,,-247,Transport,Travel,Expense
+Credit,2023-03-09 00:00:00,Company B,,4597,4597,Salary,Income,Income
+Checking,2023-02-03 00:00:00,Company C,590,,-590,Entertainment,Entertainment,Expense
+Savings,2023-08-14 00:00:00,Company C,586,,-586,Entertainment,Entertainment,Expense
+Checking,2023-03-27 00:00:00,Company B,642,,-642,Rent,Living Expenses,Expense
+Savings,2023-05-23 00:00:00,Company D,852,,-852,Groceries,Food,Expense
+Credit,2023-08-05 00:00:00,Company A,762,,-762,Entertainment,Entertainment,Expense
+Checking,2023-04-23 00:00:00,Company B,950,,-950,Rent,Living Expenses,Expense
+Savings,2023-02-17 00:00:00,Company B,,2038,2038,Salary,Income,Income
+Savings,2023-12-18 00:00:00,Company D,423,,-423,Utilities,Bills,Expense
+Savings,2023-08-31 00:00:00,Company A,502,,-502,Coffee,Dining Out,Expense
+Credit,2023-03-09 00:00:00,Company D,,1292,1292,Salary,Income,Income
+Credit,2023-05-19 00:00:00,Company C,,4454,4454,Salary,Income,Income
+Savings,2023-02-06 00:00:00,Company A,565,,-565,Entertainment,Entertainment,Expense
+Checking,2023-03-13 00:00:00,Company C,,1572,1572,Salary,Income,Income
+Credit,2023-01-14 00:00:00,Company A,,2127,2127,Salary,Income,Income
+Credit,2023-10-29 00:00:00,Company B,454,,-454,Coffee,Dining Out,Expense
+Checking,2023-08-22 00:00:00,Company C,507,,-507,Rent,Living Expenses,Expense
+Savings,2023-10-24 00:00:00,Company D,859,,-859,Entertainment,Entertainment,Expense
+Checking,2023-03-06 00:00:00,Company C,,2586,2586,Salary,Income,Income
+Credit,2023-06-16 00:00:00,Company D,665,,-665,Groceries,Food,Expense
+Savings,2023-10-16 00:00:00,Company D,,2927,2927,Salary,Income,Income
+Credit,2023-09-27 00:00:00,Company A,871,,-871,Coffee,Dining Out,Expense
+Savings,2023-07-24 00:00:00,Company B,,1616,1616,Salary,Income,Income
+Checking,2023-05-15 00:00:00,Company C,,4664,4664,Salary,Income,Income
+Credit,2023-09-30 00:00:00,Company D,553,,-553,Groceries,Food,Expense
+Savings,2023-02-24 00:00:00,Company A,,4370,4370,Salary,Income,Income
+Credit,2023-01-23 00:00:00,Company C,168,,-168,Rent,Living Expenses,Expense
+Credit,2023-04-23 00:00:00,Company B,802,,-802,Entertainment,Entertainment,Expense
+Checking,2023-07-31 00:00:00,Company C,369,,-369,Coffee,Dining Out,Expense
+Savings,2023-05-08 00:00:00,Company A,784,,-784,Coffee,Dining Out,Expense
+Credit,2023-12-03 00:00:00,Company D,121,,-121,Entertainment,Entertainment,Expense
+Credit,2023-12-01 00:00:00,Company D,119,,-119,Rent,Living Expenses,Expense
+Credit,2023-08-20 00:00:00,Company A,432,,-432,Entertainment,Entertainment,Expense
+Checking,2023-05-16 00:00:00,Company C,,3284,3284,Salary,Income,Income
+Savings,2023-03-30 00:00:00,Company A,415,,-415,Utilities,Bills,Expense
+Savings,2023-07-10 00:00:00,Company A,584,,-584,Groceries,Food,Expense
+Credit,2023-01-11 00:00:00,Company D,239,,-239,Coffee,Dining Out,Expense
+Checking,2023-03-13 00:00:00,Company B,377,,-377,Transport,Travel,Expense
+Savings,2023-12-30 00:00:00,Company A,237,,-237,Rent,Living Expenses,Expense
+Savings,2023-12-09 00:00:00,Company D,351,,-351,Groceries,Food,Expense
+Savings,2023-02-10 00:00:00,Company C,179,,-179,Entertainment,Entertainment,Expense
+Credit,2023-11-16 00:00:00,Company C,426,,-426,Transport,Travel,Expense
+Credit,2023-09-21 00:00:00,Company D,235,,-235,Coffee,Dining Out,Expense
+Savings,2023-07-07 00:00:00,Company D,771,,-771,Coffee,Dining Out,Expense
+Savings,2023-01-27 00:00:00,Company D,96,,-96,Coffee,Dining Out,Expense
+Savings,2023-04-27 00:00:00,Company B,722,,-722,Rent,Living Expenses,Expense
+Credit,2023-10-12 00:00:00,Company A,152,,-152,Utilities,Bills,Expense
+Credit,2023-07-03 00:00:00,Company D,760,,-760,Groceries,Food,Expense
+Checking,2023-04-15 00:00:00,Company D,949,,-949,Groceries,Food,Expense
+Credit,2023-08-04 00:00:00,Company B,533,,-533,Groceries,Food,Expense
+Credit,2023-09-16 00:00:00,Company C,833,,-833,Utilities,Bills,Expense
+Credit,2023-03-22 00:00:00,Company A,935,,-935,Transport,Travel,Expense
+Checking,2023-10-03 00:00:00,Company B,118,,-118,Entertainment,Entertainment,Expense
+Savings,2023-07-16 00:00:00,Company D,778,,-778,Coffee,Dining Out,Expense
+Checking,2023-01-24 00:00:00,Company B,372,,-372,Coffee,Dining Out,Expense
+Checking,2023-08-13 00:00:00,Company D,,1006,1006,Salary,Income,Income
+Credit,2023-09-22 00:00:00,Company B,342,,-342,Transport,Travel,Expense
+Savings,2023-01-05 00:00:00,Company D,759,,-759,Transport,Travel,Expense
+Savings,2023-11-12 00:00:00,Company C,306,,-306,Utilities,Bills,Expense
+Credit,2023-07-31 00:00:00,Company C,996,,-996,Coffee,Dining Out,Expense
+Checking,2023-09-12 00:00:00,Company C,485,,-485,Entertainment,Entertainment,Expense
+Checking,2023-09-20 00:00:00,Company C,58,,-58,Transport,Travel,Expense
+Checking,2023-11-28 00:00:00,Company C,572,,-572,Transport,Travel,Expense
+Checking,2023-07-22 00:00:00,Company D,402,,-402,Transport,Travel,Expense
+Credit,2023-10-17 00:00:00,Company D,175,,-175,Rent,Living Expenses,Expense
+Credit,2023-02-08 00:00:00,Company A,455,,-455,Transport,Travel,Expense
+Savings,2023-05-15 00:00:00,Company A,218,,-218,Entertainment,Entertainment,Expense
+Checking,2023-09-10 00:00:00,Company A,731,,-731,Utilities,Bills,Expense
+Checking,2023-07-03 00:00:00,Company C,66,,-66,Transport,Travel,Expense
+Savings,2023-04-03 00:00:00,Company A,981,,-981,Rent,Living Expenses,Expense
+Credit,2023-01-20 00:00:00,Company B,,3635,3635,Salary,Income,Income
+Credit,2023-03-03 00:00:00,Company D,17,,-17,Coffee,Dining Out,Expense
+Credit,2023-06-02 00:00:00,Company A,834,,-834,Rent,Living Expenses,Expense
+Savings,2023-05-20 00:00:00,Company B,,1117,1117,Salary,Income,Income
+Credit,2023-11-18 00:00:00,Company A,925,,-925,Entertainment,Entertainment,Expense
+Savings,2023-12-14 00:00:00,Company D,,4355,4355,Salary,Income,Income
+Checking,2023-06-08 00:00:00,Company D,774,,-774,Rent,Living Expenses,Expense
+Checking,2023-12-22 00:00:00,Company A,335,,-335,Rent,Living Expenses,Expense
+Credit,2023-11-30 00:00:00,Company B,439,,-439,Rent,Living Expenses,Expense
+Checking,2023-08-07 00:00:00,Company B,866,,-866,Entertainment,Entertainment,Expense
+Savings,2023-07-03 00:00:00,Company D,464,,-464,Coffee,Dining Out,Expense
+Checking,2023-11-03 00:00:00,Company C,67,,-67,Entertainment,Entertainment,Expense
+Checking,2023-04-22 00:00:00,Company D,924,,-924,Utilities,Bills,Expense
+Credit,2023-06-11 00:00:00,Company C,987,,-987,Groceries,Food,Expense
+Credit,2023-03-01 00:00:00,Company B,330,,-330,Rent,Living Expenses,Expense
+Credit,2023-06-13 00:00:00,Company A,,3972,3972,Salary,Income,Income
+Checking,2023-06-05 00:00:00,Company D,282,,-282,Rent,Living Expenses,Expense
+Checking,2023-12-15 00:00:00,Company B,135,,-135,Utilities,Bills,Expense
+Credit,2023-08-10 00:00:00,Company A,288,,-288,Groceries,Food,Expense
+Checking,2023-03-26 00:00:00,Company C,137,,-137,Utilities,Bills,Expense
+Savings,2023-05-04 00:00:00,Company B,261,,-261,Entertainment,Entertainment,Expense
+Credit,2023-04-04 00:00:00,Company D,,3599,3599,Salary,Income,Income
+Credit,2023-10-04 00:00:00,Company A,,2808,2808,Salary,Income,Income
+Checking,2023-10-05 00:00:00,Company D,849,,-849,Transport,Travel,Expense
+Checking,2023-02-15 00:00:00,Company C,,1135,1135,Salary,Income,Income
+Checking,2023-12-01 00:00:00,Company C,260,,-260,Coffee,Dining Out,Expense
+Savings,2023-03-23 00:00:00,Company A,738,,-738,Transport,Travel,Expense
+Credit,2023-02-01 00:00:00,Company A,926,,-926,Rent,Living Expenses,Expense
+Savings,2023-02-09 00:00:00,Company B,444,,-444,Coffee,Dining Out,Expense
+Credit,2023-11-05 00:00:00,Company B,258,,-258,Entertainment,Entertainment,Expense
+Credit,2023-11-09 00:00:00,Company B,394,,-394,Coffee,Dining Out,Expense
+Checking,2023-03-18 00:00:00,Company D,443,,-443,Utilities,Bills,Expense
+Savings,2023-09-22 00:00:00,Company C,963,,-963,Entertainment,Entertainment,Expense
+Savings,2023-04-09 00:00:00,Company C,816,,-816,Rent,Living Expenses,Expense
+Credit,2023-07-01 00:00:00,Company D,,4777,4777,Salary,Income,Income
+Credit,2023-07-30 00:00:00,Company B,502,,-502,Entertainment,Entertainment,Expense
+Checking,2023-07-23 00:00:00,Company C,760,,-760,Groceries,Food,Expense
+Checking,2023-12-19 00:00:00,Company C,854,,-854,Transport,Travel,Expense
+Savings,2023-06-09 00:00:00,Company B,498,,-498,Coffee,Dining Out,Expense
+Credit,2023-06-18 00:00:00,Company B,484,,-484,Rent,Living Expenses,Expense
+Savings,2023-09-27 00:00:00,Company D,713,,-713,Groceries,Food,Expense
+Checking,2023-10-13 00:00:00,Company B,,3836,3836,Salary,Income,Income
+Savings,2023-02-01 00:00:00,Company B,111,,-111,Transport,Travel,Expense
+Checking,2023-06-22 00:00:00,Company A,293,,-293,Rent,Living Expenses,Expense
+Savings,2023-07-16 00:00:00,Company A,320,,-320,Rent,Living Expenses,Expense
+Credit,2023-11-10 00:00:00,Company D,272,,-272,Groceries,Food,Expense
+Credit,2023-07-24 00:00:00,Company A,504,,-504,Transport,Travel,Expense
+Checking,2023-05-30 00:00:00,Company D,283,,-283,Entertainment,Entertainment,Expense
+Credit,2023-11-16 00:00:00,Company D,789,,-789,Groceries,Food,Expense
+Checking,2023-08-11 00:00:00,Company A,449,,-449,Rent,Living Expenses,Expense
+Checking,2023-03-11 00:00:00,Company D,,4387,4387,Salary,Income,Income
+Savings,2023-01-27 00:00:00,Company B,906,,-906,Entertainment,Entertainment,Expense
+Credit,2023-09-04 00:00:00,Company B,,3962,3962,Salary,Income,Income
+Checking,2023-07-29 00:00:00,Company C,195,,-195,Groceries,Food,Expense
+Credit,2023-07-23 00:00:00,Company D,455,,-455,Transport,Travel,Expense
+Checking,2023-11-26 00:00:00,Company A,37,,-37,Transport,Travel,Expense
+Checking,2023-05-10 00:00:00,Company C,630,,-630,Entertainment,Entertainment,Expense
+Checking,2023-06-15 00:00:00,Company D,,4957,4957,Salary,Income,Income
+Checking,2023-04-10 00:00:00,Company C,,3126,3126,Salary,Income,Income
+Credit,2023-08-06 00:00:00,Company C,690,,-690,Utilities,Bills,Expense
+Credit,2023-08-28 00:00:00,Company D,539,,-539,Utilities,Bills,Expense
+Credit,2023-12-09 00:00:00,Company B,723,,-723,Utilities,Bills,Expense
+Credit,2023-01-18 00:00:00,Company B,704,,-704,Utilities,Bills,Expense
+Savings,2023-05-14 00:00:00,Company C,442,,-442,Entertainment,Entertainment,Expense
+Credit,2023-09-15 00:00:00,Company D,648,,-648,Utilities,Bills,Expense
+Savings,2023-04-25 00:00:00,Company B,726,,-726,Groceries,Food,Expense
+Checking,2023-12-09 00:00:00,Company C,592,,-592,Utilities,Bills,Expense
+Credit,2023-01-15 00:00:00,Company A,397,,-397,Entertainment,Entertainment,Expense
+Savings,2023-04-24 00:00:00,Company A,970,,-970,Groceries,Food,Expense
+Credit,2023-06-28 00:00:00,Company A,875,,-875,Rent,Living Expenses,Expense
+Savings,2023-02-11 00:00:00,Company C,206,,-206,Rent,Living Expenses,Expense
+Credit,2023-04-25 00:00:00,Company C,877,,-877,Groceries,Food,Expense
+Savings,2023-12-10 00:00:00,Company D,473,,-473,Coffee,Dining Out,Expense
+Credit,2023-04-14 00:00:00,Company D,663,,-663,Utilities,Bills,Expense
+Credit,2023-06-26 00:00:00,Company C,,4753,4753,Salary,Income,Income
+Checking,2023-04-23 00:00:00,Company B,224,,-224,Groceries,Food,Expense
+Checking,2023-05-14 00:00:00,Company A,,3801,3801,Salary,Income,Income
+Savings,2023-02-28 00:00:00,Company A,211,,-211,Transport,Travel,Expense
+Credit,2023-09-08 00:00:00,Company D,119,,-119,Groceries,Food,Expense
+Savings,2023-03-01 00:00:00,Company B,385,,-385,Rent,Living Expenses,Expense
+Savings,2023-02-25 00:00:00,Company C,400,,-400,Entertainment,Entertainment,Expense
+Checking,2023-03-15 00:00:00,Company A,935,,-935,Transport,Travel,Expense
+Credit,2023-09-22 00:00:00,Company A,392,,-392,Entertainment,Entertainment,Expense
+Checking,2023-12-07 00:00:00,Company D,836,,-836,Transport,Travel,Expense
+Checking,2023-07-29 00:00:00,Company D,93,,-93,Transport,Travel,Expense
+Credit,2023-01-07 00:00:00,Company A,967,,-967,Entertainment,Entertainment,Expense
+Savings,2023-02-22 00:00:00,Company A,705,,-705,Coffee,Dining Out,Expense
+Savings,2023-12-03 00:00:00,Company C,287,,-287,Groceries,Food,Expense
+Credit,2023-09-30 00:00:00,Company B,,2025,2025,Salary,Income,Income
+Checking,2023-04-09 00:00:00,Company C,308,,-308,Rent,Living Expenses,Expense
+Credit,2023-09-30 00:00:00,Company D,123,,-123,Utilities,Bills,Expense
+Savings,2023-06-26 00:00:00,Company A,28,,-28,Groceries,Food,Expense
+Savings,2023-11-05 00:00:00,Company A,561,,-561,Entertainment,Entertainment,Expense
+Credit,2023-03-29 00:00:00,Company D,11,,-11,Entertainment,Entertainment,Expense
+Checking,2023-07-17 00:00:00,Company D,964,,-964,Coffee,Dining Out,Expense
+Credit,2023-08-22 00:00:00,Company D,622,,-622,Utilities,Bills,Expense
+Checking,2023-01-03 00:00:00,Company B,815,,-815,Utilities,Bills,Expense
+Savings,2023-07-06 00:00:00,Company B,406,,-406,Coffee,Dining Out,Expense
+Checking,2023-10-14 00:00:00,Company C,917,,-917,Transport,Travel,Expense
+Credit,2023-08-12 00:00:00,Company B,632,,-632,Utilities,Bills,Expense
+Credit,2023-06-16 00:00:00,Company D,,4411,4411,Salary,Income,Income
+Credit,2023-01-15 00:00:00,Company D,482,,-482,Utilities,Bills,Expense
+Savings,2023-04-19 00:00:00,Company C,883,,-883,Groceries,Food,Expense
+Savings,2023-04-13 00:00:00,Company A,921,,-921,Entertainment,Entertainment,Expense
+Savings,2023-12-14 00:00:00,Company C,,3084,3084,Salary,Income,Income
+Savings,2023-09-11 00:00:00,Company B,971,,-971,Utilities,Bills,Expense
+Checking,2023-07-08 00:00:00,Company C,128,,-128,Rent,Living Expenses,Expense
+Savings,2023-01-01 00:00:00,Company D,195,,-195,Entertainment,Entertainment,Expense
+Credit,2023-03-29 00:00:00,Company C,,1189,1189,Salary,Income,Income
+Checking,2023-01-12 00:00:00,Company B,515,,-515,Coffee,Dining Out,Expense
+Checking,2023-05-18 00:00:00,Company D,,4593,4593,Salary,Income,Income
+Savings,2023-06-11 00:00:00,Company D,683,,-683,Utilities,Bills,Expense
+Credit,2023-06-05 00:00:00,Company C,,4325,4325,Salary,Income,Income
+Savings,2023-05-05 00:00:00,Company A,143,,-143,Coffee,Dining Out,Expense
+Savings,2023-12-18 00:00:00,Company B,740,,-740,Coffee,Dining Out,Expense
+Savings,2023-05-25 00:00:00,Company C,,1534,1534,Salary,Income,Income
+Savings,2023-12-23 00:00:00,Company C,792,,-792,Coffee,Dining Out,Expense
+Checking,2023-05-31 00:00:00,Company C,273,,-273,Groceries,Food,Expense
+Credit,2023-05-30 00:00:00,Company B,885,,-885,Groceries,Food,Expense
+Savings,2023-06-14 00:00:00,Company D,148,,-148,Entertainment,Entertainment,Expense
+Credit,2023-10-12 00:00:00,Company D,400,,-400,Transport,Travel,Expense
+Checking,2023-02-08 00:00:00,Company A,880,,-880,Utilities,Bills,Expense
+Checking,2023-03-14 00:00:00,Company C,759,,-759,Transport,Travel,Expense
+Checking,2023-02-18 00:00:00,Company C,616,,-616,Groceries,Food,Expense
+Savings,2023-06-07 00:00:00,Company A,129,,-129,Rent,Living Expenses,Expense
+Checking,2023-09-28 00:00:00,Company D,875,,-875,Rent,Living Expenses,Expense
+Credit,2023-12-14 00:00:00,Company C,924,,-924,Rent,Living Expenses,Expense
+Savings,2023-11-28 00:00:00,Company C,984,,-984,Transport,Travel,Expense
+Savings,2023-04-06 00:00:00,Company A,536,,-536,Rent,Living Expenses,Expense
+Checking,2023-01-06 00:00:00,Company D,,1934,1934,Salary,Income,Income
+Credit,2023-08-14 00:00:00,Company A,696,,-696,Transport,Travel,Expense
+Savings,2023-11-25 00:00:00,Company C,,4838,4838,Salary,Income,Income
+Savings,2023-03-14 00:00:00,Company C,246,,-246,Utilities,Bills,Expense
+Checking,2023-03-15 00:00:00,Company A,821,,-821,Entertainment,Entertainment,Expense
+Checking,2023-09-22 00:00:00,Company A,826,,-826,Entertainment,Entertainment,Expense
+Savings,2023-03-08 00:00:00,Company B,138,,-138,Entertainment,Entertainment,Expense
+Savings,2023-07-28 00:00:00,Company D,,3450,3450,Salary,Income,Income
+Checking,2023-08-11 00:00:00,Company B,964,,-964,Rent,Living Expenses,Expense
+Savings,2023-06-17 00:00:00,Company A,820,,-820,Entertainment,Entertainment,Expense
+Checking,2023-08-31 00:00:00,Company C,79,,-79,Entertainment,Entertainment,Expense
+Checking,2023-12-18 00:00:00,Company B,,2009,2009,Salary,Income,Income
+Checking,2023-06-21 00:00:00,Company A,943,,-943,Coffee,Dining Out,Expense
+Checking,2023-12-10 00:00:00,Company B,478,,-478,Groceries,Food,Expense
+Savings,2023-12-13 00:00:00,Company D,402,,-402,Rent,Living Expenses,Expense
+Checking,2023-09-23 00:00:00,Company B,238,,-238,Transport,Travel,Expense
+Savings,2023-07-30 00:00:00,Company C,,4076,4076,Salary,Income,Income
+Savings,2023-10-05 00:00:00,Company B,934,,-934,Entertainment,Entertainment,Expense
+Credit,2023-11-21 00:00:00,Company A,569,,-569,Coffee,Dining Out,Expense
+Credit,2023-09-19 00:00:00,Company D,327,,-327,Utilities,Bills,Expense
+Checking,2023-04-20 00:00:00,Company D,160,,-160,Entertainment,Entertainment,Expense
+Savings,2023-08-06 00:00:00,Company D,523,,-523,Groceries,Food,Expense
+Savings,2023-12-26 00:00:00,Company C,950,,-950,Utilities,Bills,Expense
+Credit,2023-12-08 00:00:00,Company C,433,,-433,Transport,Travel,Expense
+Checking,2023-10-10 00:00:00,Company A,419,,-419,Rent,Living Expenses,Expense
+Credit,2023-11-26 00:00:00,Company C,694,,-694,Groceries,Food,Expense
+Credit,2023-03-21 00:00:00,Company B,361,,-361,Utilities,Bills,Expense
+Checking,2023-07-23 00:00:00,Company C,755,,-755,Entertainment,Entertainment,Expense
+Savings,2023-06-24 00:00:00,Company B,399,,-399,Utilities,Bills,Expense
+Credit,2023-03-04 00:00:00,Company B,,2013,2013,Salary,Income,Income
+Checking,2023-03-23 00:00:00,Company B,791,,-791,Coffee,Dining Out,Expense
+Credit,2023-12-22 00:00:00,Company D,118,,-118,Transport,Travel,Expense
+Checking,2023-12-25 00:00:00,Company C,355,,-355,Coffee,Dining Out,Expense
+Checking,2023-06-13 00:00:00,Company D,743,,-743,Coffee,Dining Out,Expense
+Checking,2023-10-02 00:00:00,Company C,788,,-788,Groceries,Food,Expense
+Savings,2023-06-03 00:00:00,Company B,466,,-466,Rent,Living Expenses,Expense
+Checking,2023-09-11 00:00:00,Company C,224,,-224,Entertainment,Entertainment,Expense
+Credit,2023-10-04 00:00:00,Company A,548,,-548,Rent,Living Expenses,Expense
+Savings,2023-02-12 00:00:00,Company A,140,,-140,Coffee,Dining Out,Expense
+Checking,2023-09-19 00:00:00,Company C,,2965,2965,Salary,Income,Income
+Savings,2023-10-31 00:00:00,Company D,643,,-643,Entertainment,Entertainment,Expense
+Credit,2023-10-18 00:00:00,Company C,23,,-23,Entertainment,Entertainment,Expense
+Savings,2023-03-26 00:00:00,Company C,742,,-742,Rent,Living Expenses,Expense
+Credit,2023-04-07 00:00:00,Company C,,3459,3459,Salary,Income,Income
+Credit,2023-04-22 00:00:00,Company C,,1666,1666,Salary,Income,Income
+Checking,2023-04-08 00:00:00,Company C,158,,-158,Entertainment,Entertainment,Expense
+Checking,2023-02-06 00:00:00,Company A,,3796,3796,Salary,Income,Income
+Checking,2023-11-23 00:00:00,Company D,363,,-363,Transport,Travel,Expense
+Checking,2023-03-31 00:00:00,Company C,923,,-923,Rent,Living Expenses,Expense
+Savings,2023-02-28 00:00:00,Company B,567,,-567,Entertainment,Entertainment,Expense
+Credit,2023-06-10 00:00:00,Company B,534,,-534,Rent,Living Expenses,Expense
+Checking,2023-07-16 00:00:00,Company D,39,,-39,Coffee,Dining Out,Expense
+Checking,2023-06-03 00:00:00,Company C,699,,-699,Entertainment,Entertainment,Expense
+Checking,2023-02-10 00:00:00,Company A,305,,-305,Entertainment,Entertainment,Expense
+Savings,2023-02-15 00:00:00,Company C,636,,-636,Transport,Travel,Expense
+Credit,2023-07-08 00:00:00,Company B,524,,-524,Utilities,Bills,Expense
+Credit,2023-08-05 00:00:00,Company A,484,,-484,Transport,Travel,Expense
+Credit,2023-09-27 00:00:00,Company C,521,,-521,Entertainment,Entertainment,Expense
+Credit,2023-11-11 00:00:00,Company D,27,,-27,Groceries,Food,Expense
+Credit,2023-06-10 00:00:00,Company D,688,,-688,Rent,Living Expenses,Expense
+Credit,2023-10-12 00:00:00,Company C,874,,-874,Coffee,Dining Out,Expense
+Savings,2023-06-24 00:00:00,Company B,5,,-5,Groceries,Food,Expense
+Credit,2023-12-07 00:00:00,Company C,95,,-95,Utilities,Bills,Expense
+Checking,2023-08-08 00:00:00,Company D,805,,-805,Coffee,Dining Out,Expense
+Savings,2023-08-15 00:00:00,Company C,549,,-549,Groceries,Food,Expense
+Credit,2023-12-27 00:00:00,Company A,,4715,4715,Salary,Income,Income
+Credit,2023-04-24 00:00:00,Company C,280,,-280,Utilities,Bills,Expense
+Savings,2023-07-25 00:00:00,Company C,775,,-775,Utilities,Bills,Expense
+Checking,2023-04-26 00:00:00,Company A,838,,-838,Rent,Living Expenses,Expense
+Checking,2023-11-05 00:00:00,Company C,224,,-224,Transport,Travel,Expense
+Checking,2023-04-25 00:00:00,Company B,886,,-886,Entertainment,Entertainment,Expense
+Savings,2023-08-11 00:00:00,Company B,949,,-949,Utilities,Bills,Expense
+Checking,2023-08-12 00:00:00,Company D,,4418,4418,Salary,Income,Income
+Credit,2023-01-29 00:00:00,Company C,826,,-826,Coffee,Dining Out,Expense
+Credit,2023-02-07 00:00:00,Company C,982,,-982,Transport,Travel,Expense
+Credit,2023-06-04 00:00:00,Company B,233,,-233,Coffee,Dining Out,Expense
+Credit,2023-01-04 00:00:00,Company B,305,,-305,Utilities,Bills,Expense
+Savings,2023-05-03 00:00:00,Company C,957,,-957,Utilities,Bills,Expense
+Credit,2023-03-14 00:00:00,Company B,929,,-929,Coffee,Dining Out,Expense
+Credit,2023-08-03 00:00:00,Company D,919,,-919,Rent,Living Expenses,Expense
+Credit,2023-03-05 00:00:00,Company A,214,,-214,Transport,Travel,Expense
+Credit,2023-09-14 00:00:00,Company B,639,,-639,Utilities,Bills,Expense
+Savings,2023-01-24 00:00:00,Company A,50,,-50,Rent,Living Expenses,Expense
+Credit,2023-08-21 00:00:00,Company C,,3847,3847,Salary,Income,Income
+Credit,2023-01-04 00:00:00,Company B,869,,-869,Coffee,Dining Out,Expense
+Savings,2023-05-20 00:00:00,Company C,511,,-511,Entertainment,Entertainment,Expense
+Savings,2023-03-23 00:00:00,Company C,319,,-319,Transport,Travel,Expense
+Checking,2023-01-18 00:00:00,Company A,945,,-945,Utilities,Bills,Expense
+Checking,2023-02-26 00:00:00,Company D,,2547,2547,Salary,Income,Income
+Savings,2023-10-12 00:00:00,Company A,459,,-459,Entertainment,Entertainment,Expense
+Checking,2023-04-15 00:00:00,Company C,977,,-977,Transport,Travel,Expense
+Checking,2023-08-09 00:00:00,Company D,761,,-761,Entertainment,Entertainment,Expense
+Credit,2023-03-13 00:00:00,Company B,454,,-454,Utilities,Bills,Expense
+Credit,2023-09-24 00:00:00,Company A,311,,-311,Transport,Travel,Expense
+Savings,2023-01-30 00:00:00,Company A,10,,-10,Utilities,Bills,Expense
+Checking,2023-04-06 00:00:00,Company B,,2174,2174,Salary,Income,Income
+Savings,2023-12-29 00:00:00,Company B,99,,-99,Rent,Living Expenses,Expense
+Checking,2023-08-04 00:00:00,Company D,455,,-455,Coffee,Dining Out,Expense
+Savings,2023-02-03 00:00:00,Company D,,3633,3633,Salary,Income,Income
+Credit,2023-08-11 00:00:00,Company B,850,,-850,Coffee,Dining Out,Expense
+Checking,2023-09-07 00:00:00,Company D,869,,-869,Rent,Living Expenses,Expense
+Credit,2023-05-28 00:00:00,Company C,774,,-774,Rent,Living Expenses,Expense
+Checking,2023-02-16 00:00:00,Company A,681,,-681,Transport,Travel,Expense
+Checking,2023-06-14 00:00:00,Company A,387,,-387,Utilities,Bills,Expense
+Credit,2023-10-10 00:00:00,Company C,,1634,1634,Salary,Income,Income
+Checking,2023-08-11 00:00:00,Company D,,1037,1037,Salary,Income,Income
+Credit,2023-11-30 00:00:00,Company C,,2187,2187,Salary,Income,Income
+Checking,2023-09-12 00:00:00,Company A,217,,-217,Groceries,Food,Expense
+Credit,2023-02-08 00:00:00,Company C,896,,-896,Entertainment,Entertainment,Expense
+Credit,2023-11-25 00:00:00,Company B,78,,-78,Entertainment,Entertainment,Expense
+Savings,2023-04-26 00:00:00,Company B,,2720,2720,Salary,Income,Income
+Credit,2023-10-07 00:00:00,Company B,,2183,2183,Salary,Income,Income
+Checking,2023-01-31 00:00:00,Company D,,4470,4470,Salary,Income,Income
+Credit,2023-08-01 00:00:00,Company D,78,,-78,Rent,Living Expenses,Expense
+Checking,2023-07-01 00:00:00,Company A,573,,-573,Groceries,Food,Expense
+Checking,2023-08-14 00:00:00,Company B,483,,-483,Groceries,Food,Expense
+Credit,2023-07-22 00:00:00,Company D,611,,-611,Rent,Living Expenses,Expense
+Savings,2023-05-31 00:00:00,Company B,688,,-688,Entertainment,Entertainment,Expense
+Credit,2023-10-30 00:00:00,Company C,14,,-14,Transport,Travel,Expense
+Checking,2023-03-04 00:00:00,Company A,445,,-445,Groceries,Food,Expense
+Credit,2023-07-27 00:00:00,Company A,,1854,1854,Salary,Income,Income
+Checking,2023-01-01 00:00:00,Company A,286,,-286,Transport,Travel,Expense
+Savings,2023-07-07 00:00:00,Company C,841,,-841,Entertainment,Entertainment,Expense
+Credit,2023-07-08 00:00:00,Company D,925,,-925,Rent,Living Expenses,Expense
+Savings,2023-05-06 00:00:00,Company B,,2139,2139,Salary,Income,Income
+Savings,2023-02-21 00:00:00,Company B,363,,-363,Coffee,Dining Out,Expense
+Savings,2023-08-24 00:00:00,Company B,,4869,4869,Salary,Income,Income
+Credit,2023-02-10 00:00:00,Company D,,2329,2329,Salary,Income,Income
+Credit,2023-11-17 00:00:00,Company A,266,,-266,Groceries,Food,Expense
+Checking,2023-12-20 00:00:00,Company A,,4731,4731,Salary,Income,Income
+Savings,2023-05-23 00:00:00,Company C,622,,-622,Groceries,Food,Expense
+Credit,2023-02-06 00:00:00,Company D,974,,-974,Transport,Travel,Expense
+Savings,2023-09-21 00:00:00,Company D,,1501,1501,Salary,Income,Income
+Credit,2023-02-19 00:00:00,Company C,304,,-304,Rent,Living Expenses,Expense
+Checking,2023-02-10 00:00:00,Company D,624,,-624,Coffee,Dining Out,Expense
+Credit,2023-08-14 00:00:00,Company C,266,,-266,Transport,Travel,Expense
+Checking,2023-08-20 00:00:00,Company C,709,,-709,Entertainment,Entertainment,Expense
+Savings,2023-11-16 00:00:00,Company C,39,,-39,Entertainment,Entertainment,Expense
+Credit,2023-03-23 00:00:00,Company A,676,,-676,Transport,Travel,Expense
+Credit,2023-01-14 00:00:00,Company A,792,,-792,Transport,Travel,Expense
+Savings,2023-04-24 00:00:00,Company A,365,,-365,Groceries,Food,Expense
+Credit,2023-08-28 00:00:00,Company B,556,,-556,Groceries,Food,Expense
+Credit,2023-01-28 00:00:00,Company B,644,,-644,Coffee,Dining Out,Expense
+Credit,2023-01-06 00:00:00,Company D,825,,-825,Entertainment,Entertainment,Expense
+Credit,2023-10-13 00:00:00,Company C,918,,-918,Utilities,Bills,Expense
+Checking,2023-05-10 00:00:00,Company B,204,,-204,Entertainment,Entertainment,Expense
+Credit,2023-11-23 00:00:00,Company B,860,,-860,Groceries,Food,Expense
+Credit,2023-06-29 00:00:00,Company B,172,,-172,Entertainment,Entertainment,Expense
+Checking,2023-02-24 00:00:00,Company A,,3748,3748,Salary,Income,Income
+Checking,2023-12-13 00:00:00,Company D,266,,-266,Rent,Living Expenses,Expense
+Checking,2023-05-04 00:00:00,Company D,468,,-468,Utilities,Bills,Expense
+Savings,2023-01-01 00:00:00,Company A,958,,-958,Rent,Living Expenses,Expense
+Credit,2023-12-04 00:00:00,Company C,795,,-795,Groceries,Food,Expense
+Credit,2023-01-09 00:00:00,Company B,198,,-198,Groceries,Food,Expense
+Savings,2023-03-11 00:00:00,Company D,606,,-606,Transport,Travel,Expense
+Savings,2023-06-23 00:00:00,Company D,746,,-746,Coffee,Dining Out,Expense
+Savings,2023-12-21 00:00:00,Company D,874,,-874,Entertainment,Entertainment,Expense
+Credit,2023-08-16 00:00:00,Company B,,1763,1763,Salary,Income,Income
+Checking,2023-12-24 00:00:00,Company A,724,,-724,Transport,Travel,Expense
+Credit,2023-07-30 00:00:00,Company C,804,,-804,Utilities,Bills,Expense
+Savings,2023-10-08 00:00:00,Company D,936,,-936,Transport,Travel,Expense
+Savings,2023-01-08 00:00:00,Company B,208,,-208,Transport,Travel,Expense
+Credit,2023-12-27 00:00:00,Company D,95,,-95,Rent,Living Expenses,Expense
