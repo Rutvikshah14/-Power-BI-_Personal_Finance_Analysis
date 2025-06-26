@@ -1,5 +1,3 @@
-# -Power-BI-_Personal_Finance_Analysis
-
 # 💰 Personal Finance Analysis Dashboard
 
 This project is a comprehensive **Power BI dashboard** designed to visualize and analyze personal income and expenses across different categories, sub-categories, and time periods.
