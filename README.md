@@ -88,12 +88,4 @@ This dashboard provides:
 - Detailed spending analysis across categories.
 - Actionable insights to improve financial planning.
 
----
 
-## 📩 Contact
-
-For questions, suggestions, or collaboration opportunities, feel free to reach out.
-
----
-
-> **Note**: All data used is fictional and meant for demonstration purposes only.
