@@ -23,7 +23,7 @@ The **Personal Finance Analysis Dashboard** enables users to interactively track
 | File/Asset                  | Description                                  |
 |----------------------------|----------------------------------------------|
 | `Finance_Expenses.csv`     | Source dataset containing financial records. |
-| `Screenshot.png`           | Visual preview of the Power BI dashboard.    |
+| `Personal_Finance_Analysis_.pbix`           | Visual preview of the Power BI dashboard.    |
 | `README.md`                | Project documentation (this file).           |
 
 ---
